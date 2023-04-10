@@ -2,13 +2,13 @@
 
 ![blockchain_crypto](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/crypto.jpg)
 ---
-# streamlit app that lets its people find fintech professionals from among a list of candidates, hire them, and pay them. 
+# Simple streamlit app that lets it's users find fintech professionals from among a list of candidates, hire them, and pay them. 
 
 ---
 ## This python code can be utilized as an app by running Streamlit. The app provides a user friendly web interface. The app "Fintech Finder" is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. The Ethereum blockchain network is integrated into the application in order to enable customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
 
 ---
-## pychain.py
+## fintech_finder.py
 ---
 * The tool goes through the following steps:
 
@@ -81,35 +81,14 @@ please follow the instructions on the Ganache download page [ganache](https://tr
 
 ![ganache](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/ganache.png)
 
+
 ## Usage
 
 To use the fintech_finder app, simply clone the full repository and open the **fintech_finder.py** file in via streamlit from your gitbash or terminal by using Step3 in above installation guide. 
 
 The tool will go through the following steps:
 
-* Add Block to Blockchain
-in the Store a Transaction Record in the PyChain section of the streamlit app you can input the following data: to replicate a blockchain transaction. 
-- sender: Person who sends something
-- receiver: Person who will receive something
-- amount: the amount that is exchanged
-Once you press Add Block the data will be added once the hash puzzle is solved. 
 
-(Below screenshot shows the blockchain consisting of several blocks)
-![adding_blocks](https://github.com/nielsdehaan1977/Fintech_Module18/blob/main/Images/streamlit4.4.1.jpg)
-
-* Update PyChain Ledger
-Once the hash puzzle is solved the block will be added to the existing PyChain ledger. 
-The record shows: 
-1. Record, in this case sender, receiver and amount information
-2. Creator_id
-3. Hash of previous block linking the new block to the previous block
-4. Timestamp of block being added to the ledged
-5. Nonce of the block
-
-* Increase Block hashing difficulty option
-This streamlit app provides you with the option to increase the difficulty of solving the hash puzzle, by providing a slider on the sidebar, where you can increase the starting 0's of the hash from 1 (easiest) to 5 (hardest) (with standard value 2). 
-
-Please see logic below for difficulty level adjustment:
 
 
 
