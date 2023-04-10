@@ -88,8 +88,29 @@ To use the fintech_finder app, simply clone the full repository and open the **f
 
 The tool will go through the following steps:
 
+* Generate a new Ethereum account instance by using the mnemonic seed phrase provided by Ganache
+
+![account_instance](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/env_ganache_aligned.jpg)
 
 
+* Fetch and display the account balance associated with your Ethereum account address.
+
+![account_balance](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/streamlit3.jpg)
+
+* Calculate the total value of an Ethereum transaction, including the gas estimate, that pays a Fintech Finder candidate for their work.
+
+![account_value](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/streamlit2.jpg)
+
+
+* Digitally sign a transaction that pays a Fintech Finder candidate, and send this transaction to the Ganache blockchain.
+
+![ganache_transaction](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/streamlit5.jpg)
+
+![ganache_transaction2](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/streamlit6.jpg)
+
+![ganache_transaction3](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/streamlit7.jpg)
+
+![ganache_transaction4](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/streamlit8.jpg)
 
 
 ## Contributor(s)
