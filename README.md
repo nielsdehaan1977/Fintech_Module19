@@ -110,7 +110,7 @@ The tool will go through the following steps:
 
 ![ganache_transaction3](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/streamlit7.jpg)
 
-![ganache_transaction4](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/streamlit8.jpg)
+![ganache_transaction4](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/streamlit8_to_account_balance.jpg)
 
 
 ## Contributor(s)
