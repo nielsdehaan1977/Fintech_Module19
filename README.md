@@ -99,7 +99,7 @@ The tool will go through the following steps:
 
 * Calculate the total value of an Ethereum transaction, including the gas estimate, that pays a Fintech Finder candidate for their work.
 
-![account_value](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/streamlit2.jpg)
+![account_value](https://github.com/nielsdehaan1977/Fintech_Module19/blob/main/Images/streamlit2_val_transaction.jpg)
 
 
 * Digitally sign a transaction that pays a Fintech Finder candidate, and send this transaction to the Ganache blockchain.
